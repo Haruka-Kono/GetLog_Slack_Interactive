@@ -12,8 +12,8 @@ Using Jupyter notebook, To Retrive Logs in Slack channels and DMs as xlsx (shape
 
 ## Why Interactive?
 - Can run script with checking output
-- Can custom construction (ex. fields selection)
-- **My poor programing skill...**
+- Can custom construction what you need (ex. fields selection)
+- ~**My poor programing skill...**~
 
 ## Basic Construction
 - retrive raw data (json format), shape them to xlsx table, and export both of them (raw as json and xlsx)
