@@ -26,3 +26,11 @@ Using Jupyter notebook, To Retrive Logs in Slack channels and DMs as xlsx (shape
  
  ## How to Use
  Because I don't distribute to Slack App Directory, if you want to use this tool, you have to create new slack app and install it to your workspace for getting tokens. For creating app, please refer my App Manifest in `./app_manifest/manifest.json`.
+
+## Future Plans
+- Custom scripts for applied to Google Colab
+
+## Appendix
+ Actually, I created this tool for me and my labmates (My lab use free-plan-Slack workspace which is created per one FY. Previously, limitations of old free plan were enough for us because they did not depend on date and our team was small, < 20 members. However, Slack, an awesome team has set date-dependency-plan. I think 90 days are so looooooooooong!... no, no, small team like us may have huge affect. Who understand what they want to do for us?)
+ 
+ Sorry for making my long talk (longer than slack limitation!), well... OK, I have remember that I was planning to explain that this tool is minimum function for my lab's WS. So feel free to customize it what you need! And if you want to send feedback for me, please send messages in issues. 
